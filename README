@@ -1,0 +1,47 @@
+🚀 Space Defender
+
+Um jogo de navinha estilo arcade desenvolvido com React, Vite e Canvas API. Proteja o espaço contra invasores vermelhos e tente alcançar a maior pontuação!
+🔗 Jogue Agora
+
+O jogo está hospedado no Vercel. Clique no link abaixo para jogar: 👉 https://meu-jogo-navinha-libra.vercel.app/
+🎮 Como Jogar
+
+    W, A, S, D: Movimentam a nave pelo cenário.
+
+    Espaço: Dispara lasers para destruir os inimigos.
+
+    Objetivo: Destrua o máximo de inimigos que conseguir sem perder suas 3 vidas.
+
+🛠️ Tecnologias Utilizadas
+
+    React: Biblioteca para a interface e gerenciamento de estados (pontuação e vidas).
+
+    Vite: Ferramenta de build rápida para o desenvolvimento.
+
+    Canvas API: Utilizada para renderizar os gráficos e a lógica de física/colisão do jogo.
+
+    JavaScript (ES6+): Lógica baseada em classes para Player, Bullet e Enemy.
+
+🚀 Como rodar o projeto localmente
+
+    Clone este repositório:
+    Bash
+
+git clone https://github.com/seu-usuario/seu-repositorio.git
+
+Entre na pasta do projeto:
+Bash
+
+cd nome-do-projeto
+
+Instale as dependências:
+Bash
+
+npm install
+
+Inicie o servidor de desenvolvimento:
+Bash
+
+    npm run dev
+
+Desenvolvido por Guilherme 🕹️
